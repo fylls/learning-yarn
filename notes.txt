@@ -1,0 +1,149 @@
+NPM VS YARN
+
+new js packedge manager
+
+
+
+why?
+solv eproblem w npm
+
+fast and consistecy
+security
+
+peer dependenyc resolution
+
+yarn resolved this
+
+
+NPM 
+has problem with security, consistency and performance
+no oflline
+
+YARN
+anhanced security, better stability, faster
+
+has offline mode
+
+5-10 times faster than npm on every single package installed
+
+
+
+speed
+predicatbility
+efficiency
+yarn lock
+security
+300 packaged
+
+resolves issues arounf versioning
+
+stricr guarantees
+
+active user community
+
+
+
+
+but tkaes up more space
+smaller comnmunity
+newer package
+does not work with old version
+
+
+perople will switch to yarn??
+
+
+
+
+
+
+
+
+
+developed and used by facebook in production
+
+ auto lock files
+very fast
+offline downoad
+emojy
+
+
+npm install @
+
+yarn add @
+
+
+s6tores depenency on global cache
+so you can install it online
+
+if lock file already in place it will be super quick
+
+
+yarn.lock
+list of all dependencies all exact dependencies
+versioning
+
+yarn add X
+
+ls
+-package.json
+-yarn.lock
+
+ 
+all depencencies express relies upon to funtion
+
+dependency tree
+
+no --save since yarn does this automaticcally
+
+
+npm install X
+npm unistall X
+
+
+yarn add X
+yarn add X --dev
+yarn remove X
+
+
+yarn updates the package json utomatically
+
+yarn why X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------
+
+https://www.youtube.com/watch?v=7n467QmiANM
+
+https://engineering.fb.com/2016/10/11/web/yarn-a-new-package-manager-for-javascript/
+https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc#.f18yrdycn
+
+
