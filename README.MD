@@ -1,6 +1,6 @@
 <div align="center">
 
-[![](https://yt-embed.herokuapp.com/embed?v=0DGClZD5LEM)](https://www.youtube.com/watch?v=0DGClZD5LEM)
+[![ IMG ](https://img.youtube.com/vi/0DGClZD5LEM/0.jpg)](https://www.youtube.com/watch?v=0DGClZD5LEM)
 
 # NPM vs Yarn | Which is the best Package Manager?
 
