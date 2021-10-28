@@ -1,6 +1,6 @@
 <div align="center">
 
-[![](https://yt-embed.herokuapp.com/embed?v=G8KXFWftCg0)](https://www.youtube.com/watch?v=G8KXFWftCg0)
+[![ IMG ](https://img.youtube.com/vi/G8KXFWftCg0/0.jpg)](https://www.youtube.com/watch?v=G8KXFWftCg0)
 
 # Yarn Workspaces
 
