@@ -1,6 +1,6 @@
 <div align="center">
 
-[![](https://yt-embed.herokuapp.com/embed?v=g9_6KmiBISk)](https://www.youtube.com/watch?v=g9_6KmiBISk)
+[![ IMG ](https://img.youtube.com/vi/g9_6KmiBISk/0.jpg)](https://www.youtube.com/watch?v=g9_6KmiBISk)
 
 # Yarn Package Manager Crash Course
 
