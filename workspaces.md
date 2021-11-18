@@ -8,7 +8,7 @@
 
 `monorepo method`
 
-babel and react
+babel & react
 
 instead of separating packages out and two different repos and two basically different folder structures, what about putting everything into one?
 
